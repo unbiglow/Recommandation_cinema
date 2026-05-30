@@ -6,7 +6,7 @@
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/unbiglow/Recommendation_cinema.git
+git clone https://github.com/unbiglow/Recommandation_cinema.git
 cd Recommendation_cinema
 
 ### 2. Installer les dépendances
